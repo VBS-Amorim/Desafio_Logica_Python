@@ -9,3 +9,5 @@ while K < INDICE :
 
 
 print (SOMA);
+
+# reposta: 91
